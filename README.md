@@ -16,3 +16,9 @@ Cleaned and standardized Netflix titles dataset using SQL:
 - Titles by country
 - Genre distribution by rating
 - Titles added over time
+
+
+### Files
+
+- [SQL Cleaning Script](netflix_cleaned.sql)
+- [Cleaned Dataset (CSV)](data/netflix_cleaned.csv)
