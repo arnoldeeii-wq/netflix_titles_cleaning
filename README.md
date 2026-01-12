@@ -23,3 +23,5 @@ Cleaned and standardized Netflix titles dataset using SQL:
 - [SQL Cleaning Script](netflix_cleaned.sql)
 - [Cleaned Dataset](netflix_titles_staging.csv)
 
+⚠️ Note: GitHub’s preview may not render the CSV perfectly. 
+Download and open in Excel/Sheets for best viewing.
