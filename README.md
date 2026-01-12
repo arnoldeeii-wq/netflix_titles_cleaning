@@ -28,3 +28,6 @@ Cleaned and standardized Netflix titles dataset using SQL:
 
 ⚠️ Note: GitHub’s preview may not render the CSV perfectly. 
 Download and open in Excel/Sheets for best viewing.
+
+### Visuals
+
