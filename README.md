@@ -31,7 +31,7 @@ Download and open in Excel/Sheets for best viewing.
 
 
 ### Visuals
-![Titles by Country](screenshots/titles_by_country.png)
-[Genre Distribution](screenshots/genre_distribution.png) 
+![Titles by Country](screenshots_titles_by_country.png.png)
+[Genre Distribution](screenshots_genre_distribution.png.png) 
  ![Titles Added Over Time](screenshots_titles_over_time.png.png)
 
