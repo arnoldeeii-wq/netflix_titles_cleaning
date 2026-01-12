@@ -21,4 +21,5 @@ Cleaned and standardized Netflix titles dataset using SQL:
 ### Files
 
 - [SQL Cleaning Script](netflix_cleaned.sql)
-- [Cleaned Dataset (CSV)](data/netflix_cleaned.csv)
+- [Cleaned Dataset](netflix_cleaned.csv)
+
