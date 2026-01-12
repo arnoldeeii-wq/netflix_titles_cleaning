@@ -24,11 +24,6 @@ Cleaned and standardized Netflix titles dataset using SQL:
 - [Cleaned Dataset](netflix_titles_staging.csv)
 - [Pivot Table Analysis](netflix_titles_pivot_table_analysis.xlsx)
 - [Raw Dataset](netflix_titles.csv)
-- [PieChart showing Titles, spread out by Country](Pie chart showing Title Count per Country.png)
-
-  
-### Photos
-- [PieChart showing Titles, spread out by Country](Pie chart showing Title Count per Country.png)
 
 
 ⚠️ Note: GitHub’s preview may not render the CSV perfectly. 
