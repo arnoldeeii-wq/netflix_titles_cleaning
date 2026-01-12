@@ -30,12 +30,8 @@ Cleaned and standardized Netflix titles dataset using SQL:
 Download and open in Excel/Sheets for best viewing.
 
 
-### Titles by Country
+### Visuals
 ![Titles by Country](screenshots/titles_by_country.png)
 [Genre Distribution](screenshots/genre_distribution.png) 
- ![Titles Added Over Time](screenshots/titles_over_time.png)
-### Visuals
-## 📸 Visuals
-![Titles by Country](screenshots/titles_by_country.png) 
-[Genre Distribution](screenshots/genre_by_rating.png)
-![Titles Added Over Time](screenshots/titles_over_time.png)
+ ![Titles Added Over Time](screenshots_titles_over_time.png.png)
+
